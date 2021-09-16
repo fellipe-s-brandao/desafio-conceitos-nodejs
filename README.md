@@ -13,10 +13,10 @@ O template está disponível na seguinte url: **[Acessar Template](https://githu
 Navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
 ### Conceitos abordados:
-#### Criação de API
-#### Aprimoramento dos conhecimentos em nodeJs 
-#### Rotas
-#### Execução de testes 
+- Criação de API
+- Aprimoramento dos conhecimentos em nodeJs 
+- Rotas
+- Execução de testes 
 
 ### Créditos:
 Rocktseat: https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md
